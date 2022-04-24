@@ -54,3 +54,9 @@ header h4 {
     opacity: 1;
     transition: ease-in-out 0.5s;
 }
+
+.logo.fade {
+    bottom: 150px;
+    opacity: 0;
+    transition: ease-in-out 0.5s;
+}
